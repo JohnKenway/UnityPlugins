@@ -1,0 +1,9 @@
+横向划动翻页插件
+
+调整代码可修改为纵向划动翻页
+
+引入ScrollViewListener.cs
+
+将ScrollViewListener挂载到ScrollView组件上
+
+调整脚本中翻页距离阈值

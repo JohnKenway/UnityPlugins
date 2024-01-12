@@ -1,0 +1,6 @@
+全局事件调度脚本
+引入CallBack.cs与EventCenter.cs
+
+根据需求添加EventCenter中eEventType中的事件名称
+
+在需要监听的类中，使用AddListener添加监听，使用RemoveListener移除监听，使用BroadCast调用事件

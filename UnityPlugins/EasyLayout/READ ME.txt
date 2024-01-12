@@ -1,0 +1,8 @@
+自动约束排版布局
+类似Cocos Creator的Layout组件
+
+导入整个EasyLayout文件夹
+
+在需要约束GameObject的组件上挂载EasyLayout脚本
+
+按需要调整脚本参数
